@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039846594044",
+    "project_id": "gccontrol-9683f",
+    "storage_bucket": "gccontrol-9683f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039846594044:android:9707b54766891bc1d64e79",
+        "android_client_info": {
+          "package_name": "app.gccontrol.gccontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHu_sRsl622bDS3aNEO5JHX9l_UXDsaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
